@@ -9,7 +9,7 @@ Type your ingredients, get instant suggestions, and let the “chef AI” inspir
 
 ## Demo
 
-[Live Demo](https://your-deployed-app-link.com) 
+[Live Demo](https://chefclaudermc.netlify.app/) 
 
 ---
 
